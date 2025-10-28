@@ -1,0 +1,27 @@
+financial-chatbot/
+│
+├── src/
+│   ├── __init__.py
+│   ├── agent/
+│   │   ├── __init__.py
+│   │   ├── financial_agent.py
+│   ├── tools/
+│   │   ├── __init__.py
+│   │   ├── financial_tools.py
+│   ├── config/
+│   │   ├── __init__.py
+│   │   ├── settings.py
+│   ├── utils/
+│       ├── __init__.py
+│       ├── helpers.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_agent.py
+│
+├── data/
+├── .env
+├── .gitignore
+├── requirements.txt
+├── main.py
+└── README.md
